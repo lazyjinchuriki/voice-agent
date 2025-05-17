@@ -4,6 +4,8 @@ A modern voice transcription application with real-time audio visualization. Thi
 
 ![VoiceScribe Screenshot](./public/screenshot.png)
 
+**[Try it live](https://voice-agent-alpha-six.vercel.app/)**
+
 ## Tech Stack
 
 ![Next.js](https://img.shields.io/badge/-Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)
